@@ -91,7 +91,8 @@
      <Compile Include="Assets\Scripts\PlayVideo.cs" />
      <Compile Include="Assets\Scripts\ReprodutorVideo.cs" />
      <Compile Include="Assets\Scripts\Rotacao.cs" />
-     <Compile Include="Assets\Scripts\Splash.cs" />
+     <Compile Include="Assets\Scripts\splash.cs" />
+     <Compile Include="Assets\Scripts\start.cs" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
