@@ -19,7 +19,7 @@ public class VideoPlay : MonoBehaviour
         {
             conte = 0;
         }
-        gameObject.renderer.material.mainTexture = NovaTextura[conte];
+        gameObject.GetComponent<Renderer>().material.mainTexture = NovaTextura[conte];
 
     }
 }
